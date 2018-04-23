@@ -11,12 +11,11 @@ This is a simple app that takes two inputted numbers, adds them, and outputs the
 
 Creating the app helped me familarize myself with:
 
-  -Creating a new project in Android Studio
+  - Creating a new project in Android Studio
   
-  -Using constraints
+  - Using constraints
   
-  -Using EditTexts, TextViews, and Buttons
+  - Using EditTexts, TextViews, and Buttons
   
-  -Activities
-  
-  -Debugging in Android Studio
+  - Activities  
+  - Debugging in Android Studio
