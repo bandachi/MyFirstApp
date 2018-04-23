@@ -1,11 +1,11 @@
-### MyFirstApp
+# MyFirstApp
 Product of https://www.youtube.com/watch?v=dFlPARW5IX8&t=876s
 
-# Necessary Software
+### Necessary Software
 
 You will need Android Studio and a Android Emulator.
 
-# Function
+### Function
 
 This is a simple app that takes two inputted numbers, adds them, and outputs the result.
 
